@@ -3,19 +3,19 @@ function addProjects() {
   const projects = [
       {
           name: "OddJobs Website",
-          description: "Helped build a website using React and node.js where users could find part-time jobs such as mowing the lawn, cleaning windows and various other jobs."
+          description: "Developed and launched the OddJobs website, utilizing React and node.js, enabling users to browse and secure part-time work opportunities for services ranging from lawn mowing to window cleaning."
       },
       {
           name: "Preview Days Game",
-          description: "Currently designing an educational java platformer game for high school students using a framework called libGDX where we teach how variables work for future computer science students."
+          description: "Currently designing a Java-based educational platformer game, the Preview Days Game, using libGDX, with the aim of familiarizing high school students with variable concepts in computer science."
       },
       {
           name: "Smart Contract for NFT Project",
-          description: "Constructed an ERC 721 smart contract for an NFT project which would allow users to mint an NFT for a specific price from the projects website."
+          description: "Constructed an ERC 721 smart contract, enabling users to purchase NFTs from the project's website, for a designated price, contributing to the successful launch of the NFT project."
       },
       {
           name: "Amara Apparel Website",
-          description: "Helped build and design an E-Commerce website that generated over 20,000 USD in sales"
+          description: "Contributed to the development and design of the Amara Apparel E-commerce website, which generated over 20,000 USD in sales, demonstrating proficiency in web development and design."
       }
   ];
 
